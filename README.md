@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/yudhiana/yudhiana/main/pacman.svg?sanitize=true" width="200" height="200">
+	<br>
+</div>
 <!--
 **yudhiana/yudhiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
